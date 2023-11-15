@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PageMain
+  - Characters
+  - LoadBooksPanel
+  - Path
+  - Collider
+  - Number
+  - Fill
+  - Start
+  - StarsEffect
+  - Effects
+  - True
+  - False
+  - QuizBox
+  - BooksPlayerCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - View3D
+  - Don'tRender
+  - Characters
+  - Touchable
+  - VFX
+  - BookDefault
+  - BookUI
+  - BookPanel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 941692981
+    locked: 0
+  - name: Animals
+    uniqueID: 960531375
+    locked: 0
+  - name: VFX
+    uniqueID: 1878045511
+    locked: 0
+  - name: BookSprites
+    uniqueID: 2962230491
+    locked: 0
+  - name: BookUI
+    uniqueID: 1979931699
+    locked: 0
